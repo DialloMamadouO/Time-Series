@@ -1,4 +1,4 @@
-### Time-Series
+### Time-Series-Forecasting-Linear-Regression-Forecasting
 In this project, we will use time series forecasting and linear regression forecasting to predict future movements in the value of the Japanese yen versus the U.S. dollar.
 
 #### Time-Series Forecasting
